@@ -1,4 +1,4 @@
-# PERSONAL-CLOUD-WEB-PORTAL
+# PERSONAL-CLOUD- SERVICES FOR WEB-PORTAL
 This repository contains the code for the web portal that we built to integrate compute service in our personal cloud project.
 
 ![image](https://github.com/Vikashinibose/PERSONAL-CLOUD---WEB-PORTAL/assets/163867032/c180d2c8-b4f5-4d1a-b16d-dac057072150)

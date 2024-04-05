@@ -13,17 +13,17 @@ Python 3.7
 
 **Steps to run this project:**
 
-Start the apache2 service.
+1.Start the apache2 service.
 
-Enable the cgi module.
+2.Enable the cgi module.
 
-Fork the repository.
+3.Fork the repository.
 
-Put 'project.py' in /usr/lib/cgi-bin folder
+4.Put 'project.py' in /usr/lib/cgi-bin folder
 
-Put remaining files in /var/www/html folder
+5.Put remaining files in /var/www/html folder
 
-Go to web browser and type the IP 
+6.Go to web browser and type the IP 
 
 ![image](https://github.com/Vikashinibose/PERSONAL-CLOUD---WEB-PORTAL/assets/163867032/73ac7955-771a-418e-b35f-3efd0ac965f7)
 
@@ -35,23 +35,23 @@ Docker interface
 
 **Features**
 
-This web portal has following features:
+*.This web portal has following features:
 
-User can give requirements in simple English phrases.
+*.User can give requirements in simple English phrases.
 
-Keywords will be identified from the query using python script in the backend.
+*.Keywords will be identified from the query using python script in the backend.
 
-Command's output is shown as the output to the user.
+*.Command's output is shown as the output to the user.
 
 **Tech Stack**
 
-HTML
+1.HTML
 
-CSS
+2.CSS
 
-JavaScript
+3.JavaScript
 
-Python
+4.Python
 
 **Contributor:**
 

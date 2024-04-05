@@ -3,28 +3,46 @@ This repository contains the code for the web portal that we built to integrate 
 
 ![image](https://github.com/Vikashinibose/PERSONAL-CLOUD---WEB-PORTAL/assets/163867032/c180d2c8-b4f5-4d1a-b16d-dac057072150)
 
+TOOLS
+
 Apache2
-Python 3.7 and above
+
+Python 3.7 
+
 Installation
+
 Steps to run this project:
 
 Start the apache2 service.
+
 Enable the cgi module.
+
 Fork the repository.
+
 Put 'project.py' in /usr/lib/cgi-bin folder
+
 Put remaining files in /var/www/html folder
-Go to web browser and type the IP of raspberry.
-Screenshots
+
+Go to web browser and type the IP 
+
+![image](https://github.com/Vikashinibose/PERSONAL-CLOUD---WEB-PORTAL/assets/163867032/73ac7955-771a-418e-b35f-3efd0ac965f7)
+
+![image](https://github.com/Vikashinibose/PERSONAL-CLOUD---WEB-PORTAL/assets/163867032/10f10bcc-9ccb-4757-bd5b-8748f376df5a)
+
 Terminal Interface
 
 Docker interface
 
 Features
+
 This web portal has following features:
 
 User can give requirements in simple English phrases.
+
 Keywords will be identified from the query using python script in the backend.
+
 Command's output is shown as the output to the user.
+
 Tech Stack
 
 HTML
@@ -48,5 +66,6 @@ Srinithi.M
 Yoga Dharshni.R
 
 License
+
 This project is licensed under the MIT License - see the LICENSE.md file for details
 

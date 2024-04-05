@@ -3,15 +3,15 @@ This repository contains the code for the web portal that we built to integrate 
 
 ![image](https://github.com/Vikashinibose/PERSONAL-CLOUD---WEB-PORTAL/assets/163867032/c180d2c8-b4f5-4d1a-b16d-dac057072150)
 
-TOOLS
+**TOOLS:**
 
 Apache2
 
 Python 3.7 
 
-Installation
+**Installation**
 
-Steps to run this project:
+**Steps to run this project:**
 
 Start the apache2 service.
 
@@ -33,7 +33,7 @@ Terminal Interface
 
 Docker interface
 
-Features
+**Features**
 
 This web portal has following features:
 
@@ -43,7 +43,7 @@ Keywords will be identified from the query using python script in the backend.
 
 Command's output is shown as the output to the user.
 
-Tech Stack
+**Tech Stack**
 
 HTML
 
@@ -53,7 +53,7 @@ JavaScript
 
 Python
 
-Contributor:
+**Contributor:**
 
 This is a team project built as Mini Project. The team members are:
 
@@ -65,7 +65,7 @@ Srinithi.M
 
 Yoga Dharshni.R
 
-License
+**License**
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 

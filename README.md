@@ -28,17 +28,25 @@ Command's output is shown as the output to the user.
 Tech Stack
 
 HTML
+
 CSS
+
 JavaScript
+
 Python
+
 Contributor:
 
 This is a team project built as Mini Project. The team members are:
 
 Vikashini C
+
 Prakathi V
+
 Srinithi.M
+
 Yoga Dharshni.R
+
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
